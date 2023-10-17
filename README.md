@@ -31,6 +31,7 @@ Take Care ❤❤❤
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50" alt="BLENDER Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"  width="50" height="50" alt="RASPBERRY Logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50" alt="ARDUINO Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" alt="LATEX Logo"/>
 </p>
           
 
