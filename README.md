@@ -7,7 +7,7 @@ Coding has been an essential chapter in my story for several years now. My weapo
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on WebAssembly projectin RUST.
+- 🔭 I’m currently working on WebAssembly project in RUST.
 - 🌱 I’m currently learning to be a better programmer in RUST.
 - 👯 I’m looking to collaborate on robotic project.
 - 🤔 I’m looking for help to be better in mathematics and artificial intelligence.
