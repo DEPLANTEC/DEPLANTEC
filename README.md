@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DEPLANTEC(@)PROTONMAIL.COM
 - ⚡ Fun fact: I grew up in Ivory Coast.
 
+https://www.buymeacoffee.com/deplantec
+
 Take Care ❤❤❤
 <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="LINUX Logo"/>        
