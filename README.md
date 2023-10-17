@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DEPLANTEC(@)PROTONMAIL.COM
 - ⚡ Fun fact: I grew up in Ivory Coast.
 
-https://www.buymeacoffee.com/deplantec
+Take Care ❤❤❤   <br>
+<a href="https://www.buymeacoffee.com/deplantec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-Take Care ❤❤❤
+
 <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="LINUX Logo"/>        
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50" alt="RUST Logo" />
