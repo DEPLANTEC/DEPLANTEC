@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Take Care ❤❤❤
 
-            <i class="devicon-html5-plain-wordmark colored"></i>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<i class="devicon-html5-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
           
           
 
