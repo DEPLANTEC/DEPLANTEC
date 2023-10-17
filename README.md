@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DEPLANTEC(@)PROTONMAIL.COM
 - ⚡ Fun fact: I grew up in Ivory Coast.
 
-      Take Care ❤❤❤
+Take Care ❤❤❤
 
