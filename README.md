@@ -16,8 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I grew up in Ivory Coast.
 
 Take Care ❤❤❤
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5 Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3 Logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50" height="50" alt="APACHE Logo" />
+</p>
+          
 
-<i class="devicon-css3-plain-wordmark colored"></i>
+          
+          
           
 
 
