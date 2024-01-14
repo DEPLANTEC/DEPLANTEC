@@ -5,13 +5,8 @@ SSdtIENocmlzLCBoYWlsaW5nIGZyb20gdGhlIHZpYnJhbnQgaGVhcnQgb2YgRnJhbmNlIPCfn6birJzw
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ***********.
-- 🌱 I’m currently learning to be a better programmer in RUST.
-- 👯 I’m looking to collaborate on ********* project.
-- 🤔 I’m looking for help to be better in **********.
-- 💬 Ask me about ... anythings.
+
 - 📫 How to reach me: DEPLANTEC(@)PM.ME
-- ⚡ Fun fact: I grew up in ***** *****.
 
 Take Care ❤❤❤   <br>
 <a href="https://www.buymeacoffee.com/deplantec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
